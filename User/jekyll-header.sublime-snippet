@@ -2,7 +2,7 @@
 	<content><![CDATA[
 ---
 layout: default
-title: ${1:标题}
+title: ${3:标题}
 ---
 
 ${2}
