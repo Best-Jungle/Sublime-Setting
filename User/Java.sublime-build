@@ -1,6 +1,7 @@
 {
     "cmd": ["javac \"$file\" && java \"$file_base_name\""],
+    "selector": ["source.java"],
     "shell":true,
-    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
-    "selector": "source.java"
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)"
+    
 }
