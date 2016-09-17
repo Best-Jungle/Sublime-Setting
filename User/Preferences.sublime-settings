@@ -1,8 +1,9 @@
 {
 	"color_scheme": "Packages/User/SublimeLinter/Zenburnesque (SL).tmTheme",
-	"font_size": 19,
+	"font_size": 21,
 	"ignored_packages":
 	[
+		"LaTeXing",
 		"Vintage"
 	],
 	"line_padding_bottom": 7,
